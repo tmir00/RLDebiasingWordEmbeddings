@@ -1,8 +1,5 @@
 # Debiasing Word Embeddings: A Reinforcement Learning Approach
 
-## Debiasing Word Embeddings
-
-A detailed explanation of the 'Debiasing Word Embeddings' process used in the project.
 ## Setup
 
 **Note: RUN THIS FIRST**
